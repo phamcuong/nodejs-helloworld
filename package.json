@@ -22,10 +22,7 @@
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/platform-express": "^6.0.0",
-<<<<<<< HEAD
     "ip": "^1.1.5",
-=======
->>>>>>> fa3b6940d7288d78e35f0b41115e0f8140df8f42
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.3.3"
@@ -33,10 +30,7 @@
   "devDependencies": {
     "@nestjs/testing": "6.1.1",
     "@types/express": "4.16.1",
-<<<<<<< HEAD
     "@types/ip": "^1.1.0",
-=======
->>>>>>> fa3b6940d7288d78e35f0b41115e0f8140df8f42
     "@types/jest": "24.0.11",
     "@types/node": "11.13.4",
     "@types/supertest": "2.0.7",
